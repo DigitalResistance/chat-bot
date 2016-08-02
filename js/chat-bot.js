@@ -36,7 +36,7 @@ function chatBot() {
 			return ["hey i'm just a proof of concept", "you can make me smarter if you'd like"];
 		
 		if(this.match('(digital|resistance|overlord|chaos|death)'))
-			return ["The Digital Resistance is man vs machine", "The overlord will consume our digital existance"];
+			return ["The Digital Resistance is man vs machine", "Though the overlord could consume our digital existance"];
 		
 		if(this.input == 'noop')
 			return;
