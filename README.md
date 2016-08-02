@@ -1,4 +1,4 @@
-Digital Restisance Chat Bot
+Digital Restisance
 ========
 The digital resistance is a chat bot based around a world where man is no longer physical but pure emotion
 
