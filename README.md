@@ -1,14 +1,8 @@
-chat-bot
+Digital Restisance Chat Bot
 ========
-
-Client-side JavaScript chat bot framework
-
-You can access [an online version here](http://liouh.com/bot/)
+The digital resistance is a chat bot based around a world where man is no longer physical but pure emotion
 
 ### Notes
-
-* The brains behind this chat bot is VERY basic
-* If you want to make it smarter, you can do so in chat-bot.js
 * Some commands you can try:
  * hello
  * what's up?
@@ -16,7 +10,11 @@ You can access [an online version here](http://liouh.com/bot/)
  * no!
  * is that all?
  * talk to you later
+ * digital
+ * restiance
+ * 
 
-### Library Dependencies
+I was looking for a simple chat bot to use for a side project to list infomation about a written book that is still is the writing stages but i wanted a simple bot to convey my thoughts while on my mobile phone. in browser form so this will be the chat bot for now and futher development will rely on the free time i have to add to the digital resistance.
 
-* jQuery
+Thanks
+
